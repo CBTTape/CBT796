@@ -1,0 +1,36 @@
+Subject:  RE: Update to File 796
+From:     Lindy Mayfield <Lindy.Mayfield@sas.com>
+Date:     10/13/2021, 12:49 PM
+To:       Sam Golob <sbgolob@cbttape.org>
+
+Hello Sam,
+
+I hope things are going ok with you and family, and that you are
+feeling better.
+
+The "bug" in my Rexx exec was that it wouldn't work with ISPF
+screen depth < 32.   I put in a simple check for that.  Now it is
+fine.
+
+Perhaps it would be helpful to add this to the title/description,
+something similar to this?
+
+The file contains a Rexx exec to explore D522 abends, and a Rexx
+assembler function to write SMF records.
+
+The Rexx assembler function I found somewhere, no idea who the
+original author was, that writes SMF records, but unfortunately
+it used a "Magic SVC"  to jump to supervisor state to do it.
+Unacceptable.  I simply changed it a bit so that it uses BPX1SMF.
+Now in order to use it the user must be given access by being
+permitted to BPX.SMF resource in the Facility Class.  I also
+added some additional error checks.
+
+Thank you so much for all the work you've done over the years
+with CBT. All great stuff.
+
+Take good care,
+
+Kind regards,
+
+Lindy
