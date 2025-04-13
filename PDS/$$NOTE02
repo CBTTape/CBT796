@@ -1,0 +1,25 @@
+Subject:  Update to File 796
+From:     Lindy Mayfield <Lindy.Mayfield@sas.com>
+Date:     8/24/2021, 10:51 AM
+To:       "sknutson@cbttape.org" <sknutson@cbttape.org>
+CC:       "sbgolob@cbttape.org" <sbgolob@cbttape.org>
+
+Hello Sam,
+
+I hope you are all doing well during these trying times.  Things
+are quite ok here in Finland.
+
+I wanted to send you the updates to my FILE796.  It was for a
+Rexx exec that displays ASCB and related control blocks, and I
+fixed a bug plus added a flag that says whether the address space
+is dubbed or not.
+
+I like this one especially because it was my interesting solution
+to how to put an entire ISPF application into one single Rexx
+exec.
+
+Take good care, and please be well,
+
+Kind Regards,
+Lindy Mayfield
+

@@ -1,0 +1,12 @@
+2025-04-13 22:53:48.410967 - Received CBT.V508.FILE796.PDS from FILE796.XMI 
+2025-04-13 22:53:48.412250 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:53:48.412343 - Found $$COPYWR.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/$$COPYWR
+2025-04-13 22:53:48.412408 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/$$NOTE01
+2025-04-13 22:53:48.412470 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/$$NOTE02
+2025-04-13 22:53:48.412532 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/$$NOTE03
+2025-04-13 22:53:48.412589 - Found $CONTNTS.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/$CONTNTS
+2025-04-13 22:53:48.412649 - Found @FILE796.txt (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/@FILE796
+2025-04-13 22:53:48.412731 - Found D522.rexx (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/D522
+2025-04-13 22:53:48.412806 - Found RXSMFASM.jcl (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/RXSMFASM
+2025-04-13 22:53:48.412874 - Found RXSMFEX.rexx (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/RXSMFEX
+2025-04-13 22:53:48.412939 - Found RXSMFTST.jcl (text/plain) in CBT.V508.FILE796.PDS, moved to PDS/RXSMFTST
